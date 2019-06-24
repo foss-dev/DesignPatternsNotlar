@@ -1,0 +1,7 @@
+C:\Users\isa\source\Design Patterns\Structural Patterns\Adapter\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+C:\Users\isa\source\Design Patterns\Structural Patterns\Adapter\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+C:\Users\isa\source\Design Patterns\Structural Patterns\Adapter\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+C:\Users\isa\source\Design Patterns\Structural Patterns\Adapter\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojAssemblyReference.cache
+C:\Users\isa\source\Design Patterns\Structural Patterns\Adapter\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\isa\source\Design Patterns\Structural Patterns\Adapter\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+C:\Users\isa\source\Design Patterns\Structural Patterns\Adapter\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb

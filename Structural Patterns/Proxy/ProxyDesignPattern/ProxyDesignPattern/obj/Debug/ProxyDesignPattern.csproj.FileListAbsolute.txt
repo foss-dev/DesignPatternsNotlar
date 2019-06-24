@@ -1,0 +1,7 @@
+C:\Users\isa\source\Design Patterns\Structural Patterns\Proxy\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe.config
+C:\Users\isa\source\Design Patterns\Structural Patterns\Proxy\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe
+C:\Users\isa\source\Design Patterns\Structural Patterns\Proxy\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.pdb
+C:\Users\isa\source\Design Patterns\Structural Patterns\Proxy\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.csprojAssemblyReference.cache
+C:\Users\isa\source\Design Patterns\Structural Patterns\Proxy\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\isa\source\Design Patterns\Structural Patterns\Proxy\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.exe
+C:\Users\isa\source\Design Patterns\Structural Patterns\Proxy\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.pdb

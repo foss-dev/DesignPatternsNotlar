@@ -1,0 +1,7 @@
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csprojAssemblyReference.cache
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe.config
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.pdb
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.exe
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.pdb

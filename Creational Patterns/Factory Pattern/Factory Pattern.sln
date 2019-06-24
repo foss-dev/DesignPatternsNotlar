@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Pattern", "Factory Pattern\Factory Pattern.csproj", "{EC7DFB29-8715-4351-B541-DD922FE77F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Pattern Ornek 2", "Factory Pattern Ornek 2\Factory Pattern Ornek 2.csproj", "{1FA30EFD-0550-49CE-9BB0-22DCAD9AB090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7DFB29-8715-4351-B541-DD922FE77F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7DFB29-8715-4351-B541-DD922FE77F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7DFB29-8715-4351-B541-DD922FE77F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7DFB29-8715-4351-B541-DD922FE77F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA30EFD-0550-49CE-9BB0-22DCAD9AB090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA30EFD-0550-49CE-9BB0-22DCAD9AB090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA30EFD-0550-49CE-9BB0-22DCAD9AB090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA30EFD-0550-49CE-9BB0-22DCAD9AB090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {327F2FC0-3026-4D1D-9915-E1E45F0DB811}
+	EndGlobalSection
+EndGlobal

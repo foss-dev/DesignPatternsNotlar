@@ -1,0 +1,7 @@
+C:\Users\isa\source\Design Patterns\Structural Patterns\Facade\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe.config
+C:\Users\isa\source\Design Patterns\Structural Patterns\Facade\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe
+C:\Users\isa\source\Design Patterns\Structural Patterns\Facade\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.pdb
+C:\Users\isa\source\Design Patterns\Structural Patterns\Facade\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csprojAssemblyReference.cache
+C:\Users\isa\source\Design Patterns\Structural Patterns\Facade\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\isa\source\Design Patterns\Structural Patterns\Facade\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.exe
+C:\Users\isa\source\Design Patterns\Structural Patterns\Facade\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.pdb

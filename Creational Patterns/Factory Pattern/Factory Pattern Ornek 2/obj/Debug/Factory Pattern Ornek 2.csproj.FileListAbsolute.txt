@@ -1,0 +1,10 @@
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\bin\Debug\Factory Pattern Ornek 2.exe.config
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\bin\Debug\Factory Pattern Ornek 2.exe
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\bin\Debug\Factory Pattern Ornek 2.pdb
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\obj\Debug\Factory Pattern Ornek 2.csprojAssemblyReference.cache
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\obj\Debug\Factory_Pattern_Ornek_2.Form1.resources
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\obj\Debug\Factory_Pattern_Ornek_2.Properties.Resources.resources
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\obj\Debug\Factory Pattern Ornek 2.csproj.GenerateResource.cache
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\obj\Debug\Factory Pattern Ornek 2.csproj.CoreCompileInputs.cache
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\obj\Debug\Factory Pattern Ornek 2.exe
+C:\Users\isa\source\Design Patterns\Factory Pattern\Factory Pattern Ornek 2\obj\Debug\Factory Pattern Ornek 2.pdb

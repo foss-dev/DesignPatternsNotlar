@@ -1,0 +1,7 @@
+C:\Users\isa\source\Design Patterns\Abstract Factory Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojAssemblyReference.cache
+C:\Users\isa\source\Design Patterns\Abstract Factory Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\isa\source\Design Patterns\Abstract Factory Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Users\isa\source\Design Patterns\Abstract Factory Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\isa\source\Design Patterns\Abstract Factory Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\isa\source\Design Patterns\Abstract Factory Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Users\isa\source\Design Patterns\Abstract Factory Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
